@@ -17,6 +17,6 @@ Urban Müller（アーバンミュラー）がコンパイラがなるべく小�
 ## Author
 [twitter](https://twitter.com/@F4kKki)
 ## Licence
-mitライセンスに準拠する。
+MITライセンスに準拠する。
 
 [MIT](https://github.com/EtoEto32/Esolang?tab=MIT-1-ov-file)

@@ -1,4 +1,4 @@
-# Esolang
+# Esolang（Esoteric programming language）
 ![body_nou_bad](https://github.com/EtoEto32/Esolang/assets/148045186/61106628-6c85-4dec-9d6a-d64def80e43b)
 ## Overview
 Urban Müller（アーバンミュラー）がコンパイラがなるべく小さくなる言語として考案した。なんとそのサイズ123バイト、インタプリタは98バイトである。

@@ -19,4 +19,4 @@ Urban Müllerがコンパイラがなるべく小さくなる言語として考�
 ## Licence
 mitライセンスに準拠する。
 
-[MIT](https://......)
+[MIT](https://github.com/EtoEto32/Esolang?tab=MIT-1-ov-file)
